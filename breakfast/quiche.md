@@ -3,6 +3,8 @@ AKA :egg: :pie:
 
 The key to this recipe is the ricotta. It gives a reliably fluffy texture.
 
+This is typically better the next day. To reheat, cut slices and place in frying pan and cover on medium heat. 
+
 ## Ingredients
 ### Basics
 1. Pie crust
@@ -27,3 +29,4 @@ There's room to play with the fillings. Here's a list common choices. Pre-cook f
 1. Remove the pre-baked crust.
 1. Pour about half the egg mixture into the pie crust. Then spread the broccoli and cheddar evenly on top of the egg mixture. Then pour the remaining egg mixture over the filling. If the filling isn't completely covered, beat another egg and pour over the top.
 1. Bake for 50-60 minutes until a toothpick, or knife, inserted into the center comes out clean (except for any cheese).
+1. Let cool for at least 15 minutes for the structure to finish setting up. Longer is better.
